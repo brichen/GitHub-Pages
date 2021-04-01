@@ -2,6 +2,8 @@
 ## Sophomore CS student
 ## Warren College
 
+![Alt Text](https://patch.com/img/cdn20/shutterstock/22880694/20200807/010157/styles/patch_image/public/shutterstock-1027915822___07125937750.jpg)
+
 > All is fair in love and war.
 
 This website was built using `markdown`.
