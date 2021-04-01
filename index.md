@@ -2,6 +2,7 @@
 ## Sophomore CS student
 ## Warren College
 > All is fair in love and war.
+
 This website was built using `markdown`.
 My [LinkedIn](https://www.linkedin.com/in/bri-chen/).
 
@@ -14,5 +15,5 @@ My favorite programming languages:
 
 - [X] Sign up for Slack
 - [X] Fill out survey
-- [] Individual Engineer Statement
-- [] Prof Greeting
+- [ ] Individual Engineer Statement
+- [ ] Prof Greeting
