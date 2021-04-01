@@ -10,7 +10,7 @@ This website was built using `markdown`.
 
 My [LinkedIn](https://www.linkedin.com/in/bri-chen/).
 
-[screenshots for this project](screenshots/)
+[screenshots for this project](screenshots/70208c26dfb1139d3b5a723ceea01b03.png)
 
 My favorite programming languages:
 1. Python
